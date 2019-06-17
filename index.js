@@ -14,6 +14,6 @@ function increaseRankBy(n){
   }
   
 function deepestChild(){
-  var 
+  var selectedElement
 }
 
